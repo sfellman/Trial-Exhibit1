@@ -1,7 +1,7 @@
 ##########
-# collectionbuilder-gh
-# Jekyll Digital Collection Generator, designed for GitHub Pages
-# https://github.com/CollectionBuilder/collectionbuilder-gh
+ collectionbuilder-gh
+ Jekyll Digital Collection Generator, designed for GitHub Pages
+ https://github.com/CollectionBuilder/collectionbuilder-gh
 ##########
 
 ##########
@@ -32,8 +32,8 @@ author: CollectionBuilder
 ##########
 # COLLECTION SETTINGS
 #
-# Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
-# Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
+ Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
+ Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
 metadata: demo-metadata 
 
 ##########
